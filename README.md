@@ -6,7 +6,7 @@
 
 ## 相关论文
 运动仿真动画：主要熟悉强化学习在物理仿真中的应用。<br>[DeepMimic](https://xbpeng.github.io/projects/DeepMimic/index.html)(RL for imitation),[AI for Animation](https://github.com/sebastianstarke/AI4Animation),
-[ASE](https://xbpeng.github.io/projects/ASE/index.html)(Adversial RL),<br>
+[ASE](https://xbpeng.github.io/projects/ASE/index.html)(Adversial RL),
 [SMPLOlympics]()(SMPL的配套使用)
 
 运动博弈：主要学习agent如何构建决策网络。
